@@ -9,5 +9,9 @@
  
  - Made graphs for temp
  - Ideal parameter for temp ~ 770 C
- - Altered parameters for pressure and flow for run 2
+ - Started Reaction Kinetics
+ 
+ 6/4/2020
+ 
+ - 
  
